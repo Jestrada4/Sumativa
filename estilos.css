@@ -1,0 +1,68 @@
+body{
+background-color: #ffd633;
+}
+img{
+width:100%;
+height:100px;
+}
+.imgprin{
+height: 700px;
+}
+.imgpron{
+height:300px;
+}
+#menu{
+width: 100%;
+height: 50px;
+background-color:#ff1a75;
+color:#00e64d;
+font-family:Didot;
+Font-size:20px;
+text-align: center;
+}
+#contenido{
+width: 100%;
+background-color: #9900ff;
+color: white;
+}
+#encabezado{
+width: 100%;
+height: 100px;
+background-color: #cc00cc;
+color: white;
+font-size:50px;
+text-align: center;
+font-family:Perpetua;
+}
+#pie{
+width: 100%;
+height: 50px;
+background-color: #800080;
+color: white;
+clear: both;
+}
+.medio{
+width: 100%;
+height: 700px;
+background-color: #000000;
+color: #fff;
+clear:both;
+}
+.inferior{
+width: 33.33%;
+height: 300px;
+background-color:  #00b8e6;
+color: #00b8e6;
+float: left;
+}
+.logo{
+width: 20%;
+height:100px;
+background-color:green;
+float: left;
+}
+.titulo{
+width: 100%;
+height: 100px;
+background-color:#5c00e6;
+}
